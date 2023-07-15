@@ -1,5 +1,6 @@
 # Digit_character
 The DIGIT AND ENGLISH CHARACTER RECOGNITION SYSTEM is a computer-based technology that can recognize and classify handwritten digits and English characters from various sources like images and papers.
+![image](https://github.com/swarup03/Digit_character/assets/101279309/32bae89b-8970-4b2c-ad13-0e39d1d078bb)
 ![image](https://github.com/swarup03/Digit_character/assets/101279309/1da4cca8-26d4-4a90-ad80-0ea2d9106971)
 ![image](https://github.com/swarup03/Digit_character/assets/101279309/0ced056b-8032-4d0a-bd66-2be17181a925)
 ![image](https://github.com/swarup03/Digit_character/assets/101279309/bb2d005d-4640-49c7-8a8a-2598aa29fd79)
